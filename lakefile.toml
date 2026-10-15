@@ -1,0 +1,5 @@
+name = "NumberTheory"
+defaultTargets = ["NumberTheory"]
+
+[[lean_lib]]
+name = "NumberTheory"
